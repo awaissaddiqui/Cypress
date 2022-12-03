@@ -5,5 +5,7 @@
 <li>Install Git</li>
 <li>Install IDE (VS CODE)</li>
 
-* #copy from
+<br>
+
+#copy from
 <h4>The original repo is here: https://github.com/akveo/ngx-admin</h4>
